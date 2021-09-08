@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+var primary = Color(0xffFF1B8E);
+var blue = Colors.indigo[900];
+var white = Colors.white;
+var lightGreen = Colors.lightGreen[100];
+var black = Color(0xff000000);
+var blackLight = Color(0xff242223);
+var transparent = Color(0x00ffffff);
+var red = Color(0xffF64D53);
+var lightGrey = Color(0xffe1e1e1);
+var grey = Color(0xffB0B0B0);
+var darkGrey = Color(0xff848484);
+var iconGrey = Color(0xff4B5667);
+var activeGreen = Color(0xff54C355);
+var primaryColor = Color(0xff4174E4);
+var googleColor = Color(0xffD64D53);
+var lightBack = Color(0xffF4F5F8);
+var orange = Color(0xFFFF9800);
+var scaffColor = Color(0xffF6F6F7);
+var lighttestBack = Color(0xffF9F9F9);
